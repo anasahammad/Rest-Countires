@@ -1,0 +1,25 @@
+.country{
+    border: 2px solid slateblue;
+    margin: 15px;
+    padding: 13px;
+    border-radius: 15px;
+   
+}
+
+.country img{
+    width: 300px;
+    height: 200px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
